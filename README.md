@@ -77,8 +77,8 @@ Perfect for:
 
 ## 🏗️ Repository Contents
 - **Ad-hoc-requests.pdf:** A document listing 10 ad hoc business requests.
-- **SQL Queries:** A folder with SQL scripts for data extraction.
-- **Presentation:** A file that highlights insights story telling.
+- **SQL_Queries:** A folder with SQL scripts for data extraction.
+- **SQL_Presentation:** A file that highlights insights story telling.
 ## 📬 Connect
 
 Feel free to reach out for  discussion, or feedback. Let’s connect and grow together in the data community!
